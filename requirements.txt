@@ -1,5 +1,5 @@
-streamlit==1.26.0
-langchain==0.1.2  # Adjust the version based on compatibility with ChatGoogleGenerativeAI
-langchain-google-genai==0.1.1
-python-dotenv==1.0.0
-requests==2.31.0
+streamlit==1.41.1
+langchain
+langchain-google-genai
+python-dotenv
+requests
