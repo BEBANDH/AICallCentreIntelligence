@@ -5,7 +5,6 @@ from langchain.memory import ConversationBufferMemory
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 import os
-from gtts import gTTS
 from io import BytesIO
 from streamlit_chat import message
 
