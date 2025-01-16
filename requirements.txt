@@ -1,10 +1,10 @@
 streamlit==1.41.1
-langchain
-langchain-google-genai
-python-dotenv
 requests
 gTTS
 streamlit-chat
-pyttsx3==2.90 
-SpeechRecognition==3.10.0 
+langchain==0.1.100  
+langchain-google-genai==0.0.3 
+python-dotenv==1.0.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
 langsmith==0.0.7
