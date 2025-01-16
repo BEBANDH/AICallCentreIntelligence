@@ -7,4 +7,4 @@ langchain-google-genai
 python-dotenv==1.0.0
 pyttsx3==2.90
 SpeechRecognition==3.10.0
-langsmith==0.0.7
+langsmith==0.2.10
