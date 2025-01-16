@@ -5,3 +5,12 @@ python-dotenv
 requests
 gTTS
 streamlit-chat
+langchain-google-genai==0.0.3  
+python-dotenv==1.0.0  
+pyttsx3==2.90 
+SpeechRecognition==3.10.0 
+threading
+queue
+time
+re
+langsmith==0.0.7
