@@ -13,12 +13,11 @@ from queue import Queue
 import time
 import re
 
-os.environ["LANGCHAIN_API_KEY"] = "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"
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"] = "customer_care_bot"
 
 load_dotenv()
-
+Langchain_api_key=os.environ["LANGCHAIN_API_KEY"]
 speech_queue = Queue()
 should_stop = False
 
