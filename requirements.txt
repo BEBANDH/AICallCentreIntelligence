@@ -7,8 +7,4 @@ gTTS
 streamlit-chat
 pyttsx3==2.90 
 SpeechRecognition==3.10.0 
-threading
-queue
-time
-re
 langsmith==0.0.7
